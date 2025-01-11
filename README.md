@@ -1,7 +1,7 @@
 
-# **TOM Enhanced Recommendation System**
+# **iSpy**
 
-The **TOM Enhanced Recommendation System** is a sophisticated platform that provides **personalized product recommendations** by integrating **real-time user data**, **web scraping**, and **AI-driven insights**. Built on top of the **TOM Server Python**, this system leverages cutting-edge technologies like **RAG (Retrieval-Augmented Generation)** to deliver recommendations based on a user’s preferences, location, and real-time product availability.
+The **iSpy** is a sophisticated platform that provides **personalized product recommendations** by integrating **real-time user data**, **web scraping**, and **AI-driven insights**. Built on top of the **TOM Server Python**, this system leverages cutting-edge technologies like **RAG (Retrieval-Augmented Generation)** to deliver recommendations based on a user’s preferences, location, and real-time product availability.
 
 This platform is ideal for **smart devices**, such as AR glasses, where users can:
 - Receive personalized shopping suggestions.
